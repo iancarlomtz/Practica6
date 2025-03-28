@@ -18,6 +18,7 @@ const Carousel = () => {
         >
             <SwiperSlide><img src="/diapositiva.1.webp" alt="Slide 1" className="slide"
                               style={{ width: "Auto", height: "500px", objectFit: "contain" }} />
+
             </SwiperSlide>
             <SwiperSlide><img src="/diapositiva2.webp" alt="Slide 2" className="slide"
                               style={{ width: "1150px", height: "500px", objectFit: "contain" }}/>
